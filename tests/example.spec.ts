@@ -12,7 +12,7 @@ test('test', async ({ page }) => {
     await expect(page.getByText(text)).toBeVisible();
   };
 
-  await page.goto('https://neal.fun/');
+  await page.goto('https://neal.fun/absurd-trolley-problems/');
 
   const levels = [
     { level: 'Level 1: The Original', action: 'Pull the lever' },

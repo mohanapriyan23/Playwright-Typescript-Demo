@@ -2,6 +2,8 @@
 
 This repository contains a demo project using Playwright for end-to-end testing.
 
+The website https://neal.fun/absurd-trolley-problems/ offers a collection of thought-provoking and humorous trolley problem scenarios. While automating this site can be an engaging way to practice writing tests with Playwright, it's also worth noting that the scenarios are just plain fun to explore! Users are encouraged to try them manually to fully experience the humor and moral dilemmas they present.
+
 ## Project Structure
 
 - `playwright.config.ts`: Configuration file for Playwright.
